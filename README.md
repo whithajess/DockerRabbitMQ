@@ -1,7 +1,8 @@
-DockerAmqp
+DockerRabbitMQ
 =============
 
-Runs amqp-server under a docker container
+Docker file for creation of rabbitmq-server under a docker container
+uses ubuntu packages for latest rabbitmq-server and erlang-nox
 
 USAGE
 =============
